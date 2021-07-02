@@ -1,9 +1,9 @@
 Retro-Game-Hackathon
 ====================
 
-- RetroGameHackathon event was an event run by the Developer Student Club of University of Adelaide.
+- RetroGameHackathon was an event run by the Developer Student Club of University of Adelaide.
 
-- Participated in this event as a first year computer science student with another group member. 
+- Participated in this event in November of 2020 as a first year (Advanced) Computer Science student with another group member. 
 
 - Created a snake like game where the player had to avoid randomly spawning obstacles. 
 
